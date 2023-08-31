@@ -39,6 +39,6 @@ Notes to github and google_colab The requirement for the submission of the proje
 
 Connect to the public script in github drop all the necessairy file in git repo (brent_ohlcv.csv, formula_collection.py, README.md, exam_script.ipynb)
 
-Clone https://github.com/neon89/HILPISCH.git including all the files with their different formats ".csv", ".py", ".ipynb", ".md"
+Clone https://github.com/neon89/algo_exam_oil_aug23.git including all the files with their different formats ".csv", ".py", ".ipynb", ".md"
 
 Apply the the git command below out of google Colab workbench in order to update changes on the script in github
