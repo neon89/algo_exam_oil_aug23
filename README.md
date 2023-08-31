@@ -11,7 +11,7 @@ The aim of this project is to develop an algorithmic trading notebook that model
 
 To forecast the market's direction (up or down), we will use a broad library of model approaches. The range of models integrated into the project is intentionally wide, spanning from very static conventional approaches to more machine learning approaches. It is important that all the chosen models in the project remain comparable based on their cumulative returns, the accuracy (test data), and the cumulative strategy. Obviously there are some limits to the comparability, since some models are integrating a split of test and train data and simple models are based on a constraint based approach such as RSI and Bolliger Band.
 
-###Following algos are applied:
+### Following algos are applied:
 
 1. Bolliger Band
 
